@@ -5,6 +5,6 @@ This repository includes an approach to the Physionet challenge (https://physion
 
 A final logistic regression model is presented using 18 selected features (out of 154 total extracted features) with better performance than a "benchmark" logistic regression model generated using standard measuress of mortality (scores for Sequential Organ Failure Assessment/SOFA and Simplified Acute Physiology Score/SAPS-1). *Feature selection was performed using a combination of L1 regularization and odds-ratio based filtering.*
 
- To run the Jupyter notebook, ensure you save needed data files ("seta.csv" and "outcomes.csv") to the working directory containing the notebook. seta.csv file is provided here as a zip file, and will need to be uncompressed.
+To run the Jupyter notebook, ensure you save needed data files ("seta.csv" and "outcomes.csv") to the working directory containing the notebook. seta.csv file is provided here as a zip file, and will need to be uncompressed.
  
- Power point summary provided for overview of approach/results (*Physionet_ICU_mortality_Prediction_SummaryPresentation.pdf*). 
+Power point summary provided for overview of approach/results:*Physionet_ICU_mortality_Prediction_SummaryPresentation.pdf* 
