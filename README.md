@@ -5,4 +5,4 @@ This repository includes an approach to the Physionet challenge (https://physion
 
 A final model is presented using 18 predictors - and its performance is shown to be better than a "benchmark" logistic regression model generated using currently standard measuress of mortality (eg: SOFA/SAPS-1 scores).
 
-Note on running this notebook: To run the notebook, ensure you save needed data files ("seta.csv" and "outcomes.csv" provided as separate attachments within email containing this notebook) to the working directory containing this notebook.
+Note on running the Jupyter notebook: To run the notebook, ensure you save needed data files ("seta.csv" and "outcomes.csv") to the working directory containing this notebook. seta.csv file is available as a zip file, and will need to be uncompressed.
