@@ -7,4 +7,4 @@ A final logistic regression model is presented using 18 selected features (out o
 
  To run the Jupyter notebook, ensure you save needed data files ("seta.csv" and "outcomes.csv") to the working directory containing the notebook. seta.csv file is provided here as a zip file, and will need to be uncompressed.
  
- Summary power point slides provided as an overview of approach/results (Physionet_ICU_mortality_Prediction_SummaryPresentation.pdf). 
+ Summary power point slides provided for overview of approach/results (Physionet_ICU_mortality_Prediction_SummaryPresentation.pdf). 
